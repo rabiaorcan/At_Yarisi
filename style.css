@@ -1,0 +1,32 @@
+.kapsayici
+{
+ 
+    background-color: rgb(100, 36, 36);
+    background-size: cover;
+}
+img
+{
+    width: 100px;
+    height: 100px;
+    transition: all 2s;
+}
+#bitis
+{
+    width: 10px;
+    height: 470px;
+    position: relative;
+    float: right;
+    background-color: black;
+    margin-right: 10px;
+}
+button
+{
+    width: 150px;
+    height: 75px;
+    font-family: Verdana;
+    font-size: 20px;
+    background-color: white;
+    color:brown;
+}
+
+
